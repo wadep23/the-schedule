@@ -6,6 +6,3 @@ console.log(currentDate);
 
 dateEl.innerHTML = 'Today: ' + currentDate.toDateString();
 
-var timeLoop = funtion() {
-    
-};
